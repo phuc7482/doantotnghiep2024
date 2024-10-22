@@ -1,0 +1,9 @@
+.table__th th{
+    align-items: center;
+    text-align: center;
+}
+
+.table__tr td{ 
+    align-items: center;
+    text-align: center;
+}

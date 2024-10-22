@@ -1,0 +1,27 @@
+.table tr td img{
+    width: 80px !important;
+    height: 80px !important;
+    object-fit: cover;
+}
+
+td i{
+    cursor: pointer;
+}
+
+td, th{
+    color: var(--primary-color);
+}
+
+.table__th th{
+    align-items: center;
+    text-align: center;
+}
+
+.table__tr td{ 
+    align-items: center;
+    text-align: center;
+}
+
+.buy__btn{
+    text-decoration: none;
+}
